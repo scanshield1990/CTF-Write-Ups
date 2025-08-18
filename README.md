@@ -19,18 +19,6 @@ The goal is to document my process — not just the flags — and to demonstrate
 
 ---
 
-## 📝 Writeups
-
-| Platform     | Challenge/Machine | Writeup Link                        |
-|--------------|-------------------|--------------------------------------|
-| HackTheBox   | Ignite            | [Ignite Writeup](./hackthebox/ignite.md)   |
-| HackTheBox   | Pennyworth        | [Pennyworth Writeup](./hackthebox/pennyworth.md) |
-| HackTheBox   | Oopsie            | [Oopsie Writeup](./hackthebox/oopsie.md) |
-| TryHackMe    | Blue              | [Blue Writeup](./tryhackme/blue.md) |
-| TryHackMe    | RootMe            | [RootMe Writeup](./tryhackme/rootme.md) |
-
----
-
 ## 🛠️ Methodology
 Each writeup follows a standard flow:
 1. **Recon** – Information gathering (Nmap, Gobuster, etc.)  
